@@ -3,7 +3,7 @@ Test results by testing the ffmpeg parameter
 
 
 You can look at the class view first.(ENGLISH and CHINESE)
-![image](https://github.com/Limingxing00/ffmpeg-test/blob/master/Class%20view.jpg)
+![image](https://github.com/Limingxing00/ffmpeg-test/blob/master/img/Class%20view(English).jpg)
 ![image](https://github.com/Limingxing00/ffmpeg-test/blob/master/img/Class%20view.jpg)
 
 C14.py is the main test file.
